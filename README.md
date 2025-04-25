@@ -94,11 +94,6 @@ crypto-tracker/
 - Responsive design patterns
 - Dark/Light mode support
 
-## 🚀 Performance Optimizations
-- Code splitting with React.lazy()
-- Memoization of expensive computations
-- Optimized re-renders
-- Efficient state updates
 
 ## 📝 Scripts
 
@@ -107,24 +102,4 @@ crypto-tracker/
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👥 Authors
-
-- Your Name - Initial work
-
-## 🙏 Acknowledgments
-
-- Material-UI for the component library
-- Recharts for the charting library
-- Vite for the build tool
